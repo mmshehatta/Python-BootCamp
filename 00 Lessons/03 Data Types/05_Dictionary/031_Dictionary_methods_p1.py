@@ -1,7 +1,7 @@
 
 # 00 Lesson
 # >> 03 Data Types
-# >> 03 dictionary
+# >> 05 dictionary
 # >> 031_dictionary_methods_p1.py
 
 from icecream import ic
