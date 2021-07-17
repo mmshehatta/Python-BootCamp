@@ -65,8 +65,7 @@ l = {1, 2, 3, 4}
 m = {1, 2, "Ali", "Amr"}
 
 ic(l)  # ic| l: {1, 2, 3, 4}
-# ic| l.symmetric_difference(m): {'Amr', 3, 4, 'Ali'}
-ic(l.symmetric_difference(m))
+ic(l.symmetric_difference(m)) # ic| l.symmetric_difference(m): {'Amr', 3, 4, 'Ali'}
 ic(l)  # ic| l: {1, 2, 3, 4}
 
 

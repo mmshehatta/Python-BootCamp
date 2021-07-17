@@ -38,8 +38,8 @@ l = [1, 2]
 t = ["A", "B"]
 ic(s * 6)  # ic| s * 6: 'MahmoudMahmoudMahmoudMahmoudMahmoudMahmoud'
 ic(l * 6)  # ic| l * 6: [1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2]
-# ic| t * 6: ['A', 'B', 'A', 'B', 'A', 'B', 'A', 'B', 'A', 'B', 'A', 'B']
-ic(t * 6)
+ic(t * 6)  # ic| t * 6: ['A', 'B', 'A', 'B', 'A', 'B', 'A', 'B', 'A', 'B', 'A', 'B']
+
 
 
 # Methods:

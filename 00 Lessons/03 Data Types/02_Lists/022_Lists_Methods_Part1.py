@@ -43,6 +43,7 @@ listA = [1, 2, 3, 4]
 listB = ["A", "B", "c", "D"]
 listC = ["One", "Two"]
 
+listA.append(listB)
 listA.extend(listB)
 ic(listA)  # ic| listA: [1, 2, 3, 4, 'A', 'B', 'c', 'D']
 

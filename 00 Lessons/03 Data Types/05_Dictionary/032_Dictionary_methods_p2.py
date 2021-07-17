@@ -5,7 +5,7 @@
 # >> 032_dictionary_methods_p2.py
 
 from icecream import ic
-# ####### Methods part1 #####:
+# ####### Methods part2 #####:
 # 1.setdefualt():
 # (__key: str, __default: str = ...) -> str
 # Insert key with a value of default if key is not in the dictionary.

@@ -126,10 +126,13 @@ framework3={
 
 
 all_js_frameworks={
-    'one':'framework1',
-    'two':'framework2',
-    'three':'framework3',
+    'one':framework1,
+    'two':framework2,
+    'three':framework3,
 }
 
-ic(all_js_frameworks)   #ic| all_js_frameworks: {'one': 'framework1', 'three': 'framework3', 'two': 'framework2'}
+ic(all_js_frameworks)   #| all_js_frameworks: {'one': {'name': 'Vue.js', 'progress': '50%'},
+                        # 'three': {'name': 'Angular.js', 'progress': '80%'},
+                        # 'two': {'name': 'React.js', 'progress': '70%'}} 
 
+ic(all_js_frameworks['one']['name'])  #ic| all_js_frameworks['one']['name']: 'Vue.js'

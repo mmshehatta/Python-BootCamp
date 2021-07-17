@@ -12,15 +12,15 @@ from icecream import ic
 # and operator:
 age, country, rank = (25, "Egypt", 10)
 
-# ic| age == 25 and country == "Egypt" and rank==10: True
 ic(age == 25 and country == "Egypt" and rank == 10)
+# ic| age == 25 and country == "Egypt" and rank==10: True
 
 
 # or operator:
-# ic| age == 25 and country == "KSA" and rank==20: False
 ic(age == 25 and country == "KSA" and rank == 20)
-# ic| age == 25 or country == "KSA" or rank==20: True
+# ic| age == 25 and country == "KSA" and rank==20: False
 ic(age == 25 or country == "KSA" or rank == 20)
+# ic| age == 25 or country == "KSA" or rank==20: True
 
 
 # not operator:
