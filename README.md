@@ -1,6 +1,6 @@
 ## Mastering Python Presented By Eng.Osama El Zero
 ---   
-> Week {1} : Intro and Get Started
+> Week 1 : Intro and Get Started
 > ======================================
 
 **Lessons:** [go to](https://elzero.org/study/mastering-python-study-plan/)
