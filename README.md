@@ -1,5 +1,9 @@
-## Mastering Python Presented By Eng.Osama El Zero
----   
+# Mastering Python Presented By Eng.Osama El Zero
+### ![#ff5721](https://via.placeholder.com/12/ff5722/000000?text=+) Documented By `Mahmoud Shehata` Backend Developer
+- [Linkedin](https://www.linkedin.com/in/mahmoud-shehata-muhammed/)
+- [email](https://mail.google.com/mail/)
+- [Portfolio](https://my-dynamic-portfolio2.herokuapp.com/)
+
 > Week 1 : Intro and Get Started
 > ======================================
 
