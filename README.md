@@ -58,16 +58,16 @@
 |--|--|
 | `01` |![#ff5721](https://via.placeholder.com/12/007500/000000?text=+)  `Finished` |
 | `02` |![#ff5721](https://via.placeholder.com/12/007500/000000?text=+)  `Finished` |
-| `03` |![#ff5721](https://via.placeholder.com/12/007500/000000?text=+)  `Finished` |
-| `04` |![#ff5721](https://via.placeholder.com/12/007500/000000?text=+)  `Finished` |
-| `05` |![#ff5721](https://via.placeholder.com/12/007500/000000?text=+)  `Finished` |
-| `06` |![#ff5721](https://via.placeholder.com/12/007500/000000?text=+)  `Finished` |
-| `07` |![#ff5721](https://via.placeholder.com/12/007500/000000?text=+)  `Finished` |
-| `08` |![#ff5721](https://via.placeholder.com/12/007500/000000?text=+)  `Finished` |
-| `09` |![#ff5721](https://via.placeholder.com/12/007500/000000?text=+)  `Finished` |
-| `10` |![#ff5721](https://via.placeholder.com/12/007500/000000?text=+)  `Finished` |
-| `01` |![#ff5721](https://via.placeholder.com/12/007500/000000?text=+)  `Finished` |
-| `12` |![#ff5721](https://via.placeholder.com/12/007500/000000?text=+)  `Finished` |
+| `03` |![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+)  `Waiting` |
+| `04` |![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+)  `Waiting` |
+| `05` |![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+)  `Waiting` |
+| `06` |![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+)  `Waiting` |
+| `07` |![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+)  `Waiting` |
+| `08` |![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+)  `Waiting` |
+| `09` |![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+)  `Waiting` |
+| `10` |![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+)  `Waiting` |
+| `01` |![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+)  `Waiting` |
+| `12` |![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+)  `Waiting` |
 
 
 
