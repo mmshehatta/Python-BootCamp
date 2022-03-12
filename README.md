@@ -1,12 +1,13 @@
-
 ## Mastering Python Presented By Eng.Osama El Zero
-
+---
 
 ### `Week 1`: 
+============
 
 **Lessons:** [go to](https://elzero.org/study/mastering-python-study-plan/)
+
 |`Num`  |`Title`  | `Status` |
-|--|--|--|--|
+|--|--|--|
 | `001` |`Introduction and What Is Python ?`  |![#ff5721](https://via.placeholder.com/12/007500/000000?text=+)  `Finished` |
 | `002` |`What I Need ?`  |![#ff5721](https://via.placeholder.com/12/007500/000000?text=+)  `Finished` |
 | `003` |`Syntax And Your First App`  |![#ff5721](https://via.placeholder.com/12/007500/000000?text=+)  `Finished` |
@@ -29,7 +30,6 @@
 
 **Search Keywords :** 
 
--   Comments And Docstring
+ - Comments And Docstring
 -   Command Line Commands
 -   Concatenation
-
