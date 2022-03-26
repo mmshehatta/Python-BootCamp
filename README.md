@@ -24,4 +24,4 @@
 
 > # Week 3 : Number, Lists, Tuples
 
-**Week [3] Branch -> :** [go to](https://github.com/mmshehatta/Python-BootCamp/tree/week_3)
+**Week [3] Branch -> :** [go to](https://github.com/mmshehatta/Python-BootCamp/tree/week_3/week_3)
