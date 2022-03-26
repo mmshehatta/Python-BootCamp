@@ -16,4 +16,4 @@
 
 > # Week 2 : Strings
 
-**Week [2] Branch -> :** [go to](https://github.com/mmshehatta/Python-BootCamp/tree/week_2/week_2)
+**Week [2] Branch -> :** [go to](https://github.com/mmshehatta/Python-BootCamp/tree/weak_2)
