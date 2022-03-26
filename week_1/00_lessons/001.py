@@ -1,1 +1,0 @@
-"""#001 – Introduction and What Is Python ? """

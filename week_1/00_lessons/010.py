@@ -1,1 +1,0 @@
-""" #010 – Concatenation And Trainings """

@@ -1,1 +1,0 @@
-""" #007 – Variables Part One """
