@@ -14,6 +14,14 @@
 
 **Week [1] Branch -> :** [go to](https://github.com/mmshehatta/Python-BootCamp/tree/week_1/week_1)
 
+<br>
+
 > # Week 2 : Strings
 
 **Week [2] Branch -> :** [go to](https://github.com/mmshehatta/Python-BootCamp/tree/weak_2)
+
+<br/>
+
+> # Week 3 : Number, Lists, Tuples
+
+**Week [3] Branch -> :** [go to](https://github.com/mmshehatta/Python-BootCamp/tree/week_3)
