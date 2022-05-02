@@ -62,5 +62,30 @@ ic(imgNumber.real)
 قم بتحويل الرقم 10 ل Floating Point Number مع وضع عشر أرقام بعد العلامة العشرية
 """
 num = 10
-f = float(num)
-ic(round(f, 2))
+# TODO:Back to solve later.
+# f = float(num)
+# ic(round(f, 10))
+
+
+"""
+Ass 04
+------
+"""
+num = 159.650
+to_int = int(num)
+ic(to_int)
+ic(type(to_int))
+
+# Output
+# ic| to_int: 159
+# ic| type(to_int): <class 'int'>
+
+
+"""
+Ass 05
+"""
+ic(100 - 115)
+ic(50 * 30)
+ic(21 % 4)
+ic(110 // 11)
+ic(97 // 20)
