@@ -8,7 +8,9 @@
 | `020` | `Arithematic Operators` | ![#ff5721](https://via.placeholder.com/12/007500/000000?text=+) `Finished` |
 | `021` | `Lists`                 | ![#ff5721](https://via.placeholder.com/12/007500/000000?text=+) `Finished` |
 | `022` | `lists Methods Part1`   | ![#ff5721](https://via.placeholder.com/12/007500/000000?text=+) `Finished` |
-| `023` | `lists Methods Part1`   | ![#ff5721](https://via.placeholder.com/12/007500/000000?text=+) `Finished` |
+| `023` | `lists Methods Part2`   | ![#ff5721](https://via.placeholder.com/12/007500/000000?text=+) `Finished` |
+| `024` | `tuples Methods Part1`  | ![#ff5721](https://via.placeholder.com/12/007500/000000?text=+) `Finished` |
+| `025` | `tuples Methods Part2`  | ![#ff5721](https://via.placeholder.com/12/007500/000000?text=+) `Finished` |
 
 <br>
 
