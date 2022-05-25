@@ -1,5 +1,6 @@
 # DailyPy
 
+[Go To DailyPy](https://www.linkedin.com/in/lindseym1/recent-activity/shares/)
 
 
 | `Num` | `Title`                 | `Status`                                                                   |
