@@ -44,9 +44,3 @@ print(list(my_final_list))
 # ic| unique_list: [1, 2, 3, 4]
 
 
-"""
-
-Ass 2:
------
-
-"""
