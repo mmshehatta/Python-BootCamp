@@ -31,3 +31,8 @@
 > # Week 4 : Set, Dictionary
 
 **Week [4] Branch -> :** [go to](https://github.com/mmshehatta/Python-BootCamp/tree/week_4/week_4)
+
+
+> # Week 5 : Boolean, Operators, Input
+
+**Week [5] Branch -> :** [go to](https://github.com/mmshehatta/Python-BootCamp/tree/week_5/week_5)
