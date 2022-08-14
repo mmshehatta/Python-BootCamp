@@ -36,3 +36,7 @@
 > # Week 5 : Boolean, Operators, Input
 
 **Week [5] Branch -> :** [go to](https://github.com/mmshehatta/Python-BootCamp/tree/week_5/week_5)
+
+# Week 6 : Control Flow
+
+**Week [6] Branch -> :** [go to](https://github.com/mmshehatta/Python-BootCamp/tree/week_6/week_6)
