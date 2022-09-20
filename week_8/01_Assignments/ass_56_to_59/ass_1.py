@@ -10,11 +10,11 @@
 # إذا لم يكتب الشخص العملية الحسابية نهائيا قم بعمل العملية الإفتراضية وهي الجمع
 
 def calculate(n1, n2, opt="add"):
-    if opt.lower() in ("add", "a"):
+    if opt.lower().startswith("a"):
         return n1 + n2
-    elif opt.lower() in ("subtract", "s"):
+    elif opt.lower().startswith("s"):
         return n1 - n2
-    elif opt.lower() in ("multiply", "m"):
+    elif opt.lower().startswith("m"):
         return n1 * n2
     else:
         print("This operation not found")
