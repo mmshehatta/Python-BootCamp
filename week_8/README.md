@@ -18,7 +18,12 @@
 
 **Assignments :** [56-59](https://elzero.org/python-assignments-lesson-from-56-to-59/)
 
-|`Num` |`Status` | |--|--| | `56-59`  |`Finished` |
+|`Num` |`Status` |
+|--|--|
+| `56 To 59`|`Finished` |
+| `60 To 64` |`Finished` |
+
+<br>
 
 **Search Keywords :**
 
