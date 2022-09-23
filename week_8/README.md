@@ -16,7 +16,8 @@
 
 <br>
 
-**Assignments :** [56-59](https://elzero.org/python-assignments-lesson-from-56-to-59/)
+**Assignments :** [56-59](https://elzero.org/python-assignments-lesson-from-56-to-59/) `and`
+[60-64](https://elzero.org/python-assignments-lesson-from-56-to-59/)
 
 |`Num` |`Status` |
 |--|--|
