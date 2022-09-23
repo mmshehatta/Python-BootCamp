@@ -40,3 +40,10 @@
 # Week 6 : Control Flow
 
 **Week [6] Branch -> :** [go to](https://github.com/mmshehatta/Python-BootCamp/tree/week_6/week_6)
+
+# Week 7 : Loops
+
+**Week [7] Branch -> :** [go to](https://github.com/mmshehatta/Python-BootCamp/tree/week_7/week_7)
+# Week 8 : Functions
+
+**Week [8] Branch -> :** [go to](https://github.com/mmshehatta/Python-BootCamp/tree/week_8/week_8)
