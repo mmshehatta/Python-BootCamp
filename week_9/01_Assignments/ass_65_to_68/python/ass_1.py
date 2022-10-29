@@ -18,4 +18,4 @@ for i in range(1, 4):
             f.write(f"#files: {len([name for name in os.listdir('.') if os.path.isfile(name)])}\n")
     else:
         with open(f"file_{i}.txt", "w") as f:
-            f.write(f"Elzero Web School => {i}")
+            f.write(f"Elzero Web School => {i}\n")
