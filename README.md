@@ -52,3 +52,7 @@
 # Week 9 : Files Handling
 
 **Week [9] Branch -> :** [go to](https://github.com/mmshehatta/Python-BootCamp/tree/week_9/week_9)
+
+# Week 10 : Built-In Functions
+
+**Week [10] Branch -> :** [go to](https://github.com/mmshehatta/Python-BootCamp/tree/week_10/week_10)
