@@ -12,6 +12,6 @@ ic(round(sum(l) / n))
 
 if round(sum(l) / n) == max(0, 3, 10, 2, -100, -23, 9):
 
-  print("Good")
+  print("Gooood")
 
 # Output => Good
