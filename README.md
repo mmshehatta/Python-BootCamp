@@ -2,7 +2,7 @@
 
 <br>
 
-### ![#ff5721](https://via.placeholder.com/12/ff5722/000000?text=+) Documented By `Mahmoud Shehata` Backend Developer
+### Documented By `Mahmoud Shehata` Backend Developer
 
 - [Linkedin](https://www.linkedin.com/in/mahmoud-shehata-muhammed/)
 - [email](https://mail.google.com/mail/)
@@ -55,4 +55,4 @@
 
 # Week 10 : Built-In Functions
 
-**Week [10] Branch -> :** [go to](https://github.com/mmshehatta/Python-BootCamp/tree/week_10/week_10)
+**Week [10] Branch -> :** [go to](https://github.com/mmshehatta/Python-BootCamp/tree/week10/week_10)
