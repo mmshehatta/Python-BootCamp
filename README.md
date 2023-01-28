@@ -60,3 +60,7 @@
 > # Week 11 : Modules, Date, Decorators
 
 >  **Week [11] Branch -> :** [go to](https://github.com/mmshehatta/Python-BootCamp/tree/week11/week_11)
+
+> # Week 12 : Modules, Error Handling
+
+>  **Week [12] Branch -> :** [go to](https://github.com/mmshehatta/Python-BootCamp/tree/week12/week_12)
